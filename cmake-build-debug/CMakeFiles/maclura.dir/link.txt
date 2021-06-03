@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/maclura.dir/main.cpp.o -o maclura 

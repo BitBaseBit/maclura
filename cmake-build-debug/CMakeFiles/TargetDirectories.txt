@@ -1,0 +1,3 @@
+/home/bitbasebit/dev/maclura/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bitbasebit/dev/maclura/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bitbasebit/dev/maclura/cmake-build-debug/CMakeFiles/maclura.dir
