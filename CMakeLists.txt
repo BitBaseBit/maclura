@@ -3,4 +3,4 @@ project(maclura)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(maclura main.cpp)
+add_executable(maclura main.cpp maclura/config.cpp maclura/config.hpp)

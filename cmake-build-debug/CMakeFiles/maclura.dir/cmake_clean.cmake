@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/maclura.dir/maclura/config.cpp.o"
   "CMakeFiles/maclura.dir/main.cpp.o"
   "maclura"
   "maclura.pdb"

@@ -142,6 +142,33 @@ maclura/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/maclura.dir/build.make CMakeFiles/maclura.dir/build
 .PHONY : maclura/fast
 
+maclura/config.o: maclura/config.cpp.o
+
+.PHONY : maclura/config.o
+
+# target to build an object file
+maclura/config.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/maclura.dir/build.make CMakeFiles/maclura.dir/maclura/config.cpp.o
+.PHONY : maclura/config.cpp.o
+
+maclura/config.i: maclura/config.cpp.i
+
+.PHONY : maclura/config.i
+
+# target to preprocess a source file
+maclura/config.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/maclura.dir/build.make CMakeFiles/maclura.dir/maclura/config.cpp.i
+.PHONY : maclura/config.cpp.i
+
+maclura/config.s: maclura/config.cpp.s
+
+.PHONY : maclura/config.s
+
+# target to generate assembly for a file
+maclura/config.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/maclura.dir/build.make CMakeFiles/maclura.dir/maclura/config.cpp.s
+.PHONY : maclura/config.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -178,6 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... maclura"
+	@echo "... maclura/config.o"
+	@echo "... maclura/config.i"
+	@echo "... maclura/config.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

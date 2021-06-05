@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/maclura.dir/main.cpp.o -o maclura 
+/usr/bin/c++ -g CMakeFiles/maclura.dir/main.cpp.o CMakeFiles/maclura.dir/maclura/config.cpp.o -o maclura 

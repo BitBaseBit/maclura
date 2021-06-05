@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/bitbasebit/dev/maclura/maclura/config.cpp">
+			<Option target="maclura"/>
+		</Unit>
+		<Unit filename="/home/bitbasebit/dev/maclura/maclura/config.hpp">
+			<Option target="maclura"/>
+		</Unit>
 		<Unit filename="/home/bitbasebit/dev/maclura/main.cpp">
 			<Option target="maclura"/>
 		</Unit>

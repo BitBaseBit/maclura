@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/bitbasebit/dev/maclura/maclura/config.cpp" "/home/bitbasebit/dev/maclura/cmake-build-debug/CMakeFiles/maclura.dir/maclura/config.cpp.o"
   "/home/bitbasebit/dev/maclura/main.cpp" "/home/bitbasebit/dev/maclura/cmake-build-debug/CMakeFiles/maclura.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
